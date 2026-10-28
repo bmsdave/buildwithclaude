@@ -4443,7 +4443,7 @@
     {
       "name": "close-knit",
       "description": "Find where to live in England, London in depth, by talking to Claude: a guided find-a-home skill plus the Close Knit remote MCP server (https://getcloseknit.com/mcp, no auth). Area shortlists, evidence, listings and a watch for new homes, from official open data: sale prices (HM Land Registry), rents (ONS), crime (police.uk), schools (Ofsted/DfE), flood risk, noise and TfL commute times. Every answer carries its sources. Free, no ads, no sign-in.",
-      "version": "0.7.3",
+      "version": "0.7.4",
       "author": {
         "name": "Close Knit",
         "url": "https://getcloseknit.com"
@@ -4466,7 +4466,7 @@
         "url": "https://github.com/bmsdave/getcloseknit.git",
         "path": "agents/claude/plugin",
         "ref": "main",
-        "sha": "985afb9e0fcfa0daa1ee1f362d03ed626823d0a0"
+        "sha": "0e740e08f86386ccfaafbb8f4da8ad47b03d950c"
       }
     }
   ]
